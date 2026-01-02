@@ -2,7 +2,7 @@ import {
   AlignStyles,
   MutedStyles,
   type BaseTypographyProps,
-} from "./interface";
+} from "./ITypography";
 
 export default function Subtitle({
   children,

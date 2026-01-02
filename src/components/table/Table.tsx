@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { type TableProps } from "./interface";
+import { type TableProps } from "./ITable";
 import Text from "../Typography/Text";
 
 export default function Table<T>({ columns, data, onRowClick, className = "" }: TableProps<T>) {

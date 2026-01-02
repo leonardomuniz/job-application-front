@@ -1,4 +1,4 @@
-import { type InputProps } from "./interface";
+import { type InputProps } from "./IInput";
 import Text from "../Typography/Text";
 
 export default function Input({

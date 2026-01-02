@@ -1,4 +1,4 @@
-import type { SelectProps } from "./interface";
+import type { SelectProps } from "./ISelect";
 import Text from "../Typography/Text";
 
 export default function Select({

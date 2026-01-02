@@ -1,5 +1,5 @@
 
-import { CardVariants, type CardProps } from "./interface";
+import { CardVariants, type CardProps } from "./ICard";
 import Text from "../Typography/Text";
 import Title from "../Typography/Title";
 import Subtitle from "../Typography/Subtitle";

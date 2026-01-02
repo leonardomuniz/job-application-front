@@ -1,4 +1,4 @@
-import { AlignStyles, ColorStyles, type BaseTypographyProps } from "./interface";
+import { AlignStyles, ColorStyles, type BaseTypographyProps } from "./ITypography";
 
 export default function Title({ children, className = "", align = "left" }: BaseTypographyProps) {
   return (

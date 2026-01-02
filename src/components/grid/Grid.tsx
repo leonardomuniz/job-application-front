@@ -1,4 +1,4 @@
-import { ColsStyles, GapStyles, type GridProps } from "./interface";
+import { ColsStyles, GapStyles, type GridProps } from "./IGrid";
 
 export default function Grid({
   children,

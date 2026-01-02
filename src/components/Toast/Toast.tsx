@@ -1,4 +1,4 @@
-import { ToastVariantStyles, type ToastProps } from "./interface";
+import { ToastVariantStyles, type ToastProps } from "./IToast";
 import Text from "../Typography/Text";
 
 export default function Toast({

@@ -1,4 +1,4 @@
-import { TagVariants, type TagProps } from "./interface";
+import { TagVariants, type TagProps } from "./ITag";
 import { Text } from "../Typography/Text";
 
 export function Tag({ children, variant = "neutral", className = "" }: TagProps) {

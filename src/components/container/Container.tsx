@@ -1,4 +1,4 @@
-import { ContainerMaxWidths, type ContainerProps } from "./interface";
+import { ContainerMaxWidths, type ContainerProps } from "./IContainer";
 
 export default function Container({
   children,

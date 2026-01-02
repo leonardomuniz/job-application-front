@@ -1,4 +1,4 @@
-import { SkeletonVariantClasses, type SkeletonProps } from "./interface";
+import { SkeletonVariantClasses, type SkeletonProps } from "./ISkeleton";
 
 export default function Skeleton({ 
   className = "", 

@@ -3,7 +3,7 @@ import {
   ButtonSizes,
   ButtonVariants,
   type ButtonProps,
-} from "./interface";
+} from "./IButton";
 import Text from "../Typography/Text";
 
 export default function Button({

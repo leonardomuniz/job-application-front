@@ -1,5 +1,5 @@
 import Title from "../Typography/Title";
-import { type ModalProps } from "./interface";
+import { type ModalProps } from "./IModal";
 
 export default function Modal({ isOpen, onClose, title, children, footer }: ModalProps) {
   if (!isOpen) return null;

@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { type BaseTypographyProps, MutedStyles, AlignStyles } from "./interface";
+import { type BaseTypographyProps, MutedStyles, AlignStyles } from "./ITypography";
 
 export default function Text({ children, className = "", as = "p", align = "left" }: BaseTypographyProps) {
   const Component = as as any;
